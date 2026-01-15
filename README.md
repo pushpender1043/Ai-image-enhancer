@@ -1,12 +1,58 @@
-# React + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ5eWl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5/xT9IgzoKnwFNmISR8I/giphy.gif" alt="AI Enhancer Logo" width="100" />
 
-Currently, two official plugins are available:
+  <h1>✨ AI Image Enhancer</h1>
+  
+  <p>
+    <strong>Blurry to Brilliant in Seconds! 🚀</strong>
+  </p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  <p>
+    <a href="https://ai-enhancer-rose.vercel.app/">
+      <img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+    </a>
+    <a href="https://github.com/your-username/repo-name">
+      <img src="https://img.shields.io/badge/Code-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    </a>
+    <img src="https://img.shields.io/github/stars/your-username/repo-name?style=for-the-badge&color=yellow" alt="Stars" />
+  </p>
+  
+  <br />
 
-## Expanding the ESLint configuration
+  <img src="https://via.placeholder.com/800x400.png?text=Place+Your+App+Screenshot+Here" alt="Project Screenshot" width="100%" />
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+</div>
+
+<br />
+
+## ⚡ What is this?
+**AI Enhancer** koi ordinary image tool nahi hai. Yeh ek **Next-Gen React Application** hai jo Artificial Intelligence ki power use karke tumhari purani, blurry, aur low-quality images ko **High-Definition (HD)** memories mein badal deta hai. 
+
+Bas ek click, aur magic dekho! ✨
+
+## 🔥 Key Features
+Why users love this app:
+
+- 🧠 **Smart Upscaling:** Low-res images ko 2x/4x upscale kare bina quality lose kiye.
+- 🎨 **Color Restoration:** Black & white purani photos mein jaan daal de.
+- 🌫️ **De-Blurring:** Hile hue haathon se li gayi photos ko sharp banaye.
+- ⚡ **Lightning Fast:** Optimized React frontend for instant interactions.
+- 📱 **Fully Responsive:** Mobile ho ya Desktop, har jagah smooth chalta hai.
+
+## 🛠️ Tech Stack
+This project is built with the best tools in the industry:
+
+| Category | Tech Used |
+|----------|-----------|
+| **Frontend** | React.js ⚛️ |
+| **Styling** | CSS3 / Tailwind CSS 🎨 |
+| **AI Model** | (Replicate API / DeepAI / Custom Model - *Edit this*) 🤖 |
+| **Deployment** | Vercel ▲ |
+
+## 🚀 How to Run Locally
+Want to tweak the magic? Follow these steps:
+
+1. **Clone the magic**
+   ```bash
+   git clone [https://github.com/your-username/repo-name.git](https://github.com/your-username/repo-name.git)
