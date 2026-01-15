@@ -12,15 +12,11 @@
     <a href="https://ai-enhancer-rose.vercel.app/">
       <img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
     </a>
-    <a href="https://github.com/your-username/repo-name">
-      <img src="https://img.shields.io/badge/Code-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-    </a>
-    <img src="https://img.shields.io/github/stars/your-username/repo-name?style=for-the-badge&color=yellow" alt="Stars" />
-  </p>
   
   <br />
 
-  <img src="https://via.placeholder.com/800x400.png?text=Place+Your+App+Screenshot+Here" alt="Project Screenshot" width="100%" />
+  <img src="<img width="805" height="437" alt="Screenshot 2026-01-15 142110" src="https://github.com/user-attachments/assets/09118f29-7c98-47ef-90aa-9a8b4da7c2ff" />
+" width="100%" />
 
 </div>
 
